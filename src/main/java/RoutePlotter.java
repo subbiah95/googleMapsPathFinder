@@ -5,7 +5,7 @@ import model.RouteDetails;
 
 public class RoutePlotter {
 
-    private static final String apiKey = "AIzaSyAEQvKUVouPDENLkQlCF6AAap1Ze-6zMos";
+    private static final String apiKey = "YOUR_API_KEY";
 
     public static void main(String[] args) {
         GeoApiContext context = new GeoApiContext.Builder()
